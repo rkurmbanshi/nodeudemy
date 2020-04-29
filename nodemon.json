@@ -3,7 +3,7 @@
     "MONGO_USER": "root",
     "MONGO_PASSWORD": "admin",
     "MONGO_DEFAULT_DATABASE": "shop",
-    "STRIPE_KEY": "sk_test_6VjWyuIrudGYQd6deVa8H0me004tj6IS5Q"
+    "STRIPE_KEY": "sk_test_copykeyfromacount"
   }
   
 }
