@@ -7,11 +7,7 @@ const { validationResult }=require('express-validator/check');
 
 const User = require('../models/user');
 
-const transporter=nodemailer.createTransport(sendgridTransport({
-  auth:{
-    api_key:''
-  }
-}));
+/*sendgrid credential code is required here due to account blockage removed*/
 
 exports.getLogin = (req, res, next) => {
   //console.log(req.flash('error'));
